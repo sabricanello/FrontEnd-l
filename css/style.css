@@ -1,0 +1,43 @@
+header {
+  background-color: rgb(230, 221, 221);
+}
+img {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  color: rgb(63, 63, 189);
+  text-align: center;
+  letter-spacing: 5px;
+  background-color: grey;
+  font-family: "Times New Roman";
+}
+.espacio {
+  height: 50px;
+}
+
+h3 {
+  color: rgb(63, 63, 189);
+  letter-spacing: 5px;
+  background-color: grey;
+}
+
+.negrita {
+  font-weight: bold;
+  font-style: italic;
+}
+.text {
+  display: block;
+  margin-left: 80px;
+}
+footer {
+  background-color: rgb(11, 11, 131);
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+a {
+  display: inline-block;
+  margin-left: 10px;
+}
