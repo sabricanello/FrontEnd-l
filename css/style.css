@@ -1,0 +1,46 @@
+header {
+  background-color: #f5c6a5;
+}
+img.foto {
+  display: block;
+  margin: auto;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  letter-spacing: 3px;
+  background-color: #ff7777;
+  font-family: "Segoe UI";
+}
+.espacio {
+  height: 50px;
+}
+
+h3 {
+  color: white;
+  letter-spacing: 2px;
+  background-color: #a2416b;
+}
+
+.negrita {
+  font-weight: bold;
+  font-style: italic;
+}
+.text {
+  display: block;
+  margin-left: 80px;
+}
+footer {
+  background-color: #852747;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+a {
+  display: inline-block;
+  margin-left: 10px;
+}
