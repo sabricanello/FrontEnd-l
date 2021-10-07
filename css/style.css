@@ -1,8 +1,9 @@
 header {
   background-color: #f5c6a5;
+  display: flex;
+  justify-content: center;
 }
 img.foto {
-  display: block;
   margin: auto;
   width: 250px;
   height: 250px;
